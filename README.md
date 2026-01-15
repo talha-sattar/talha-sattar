@@ -2,11 +2,11 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **Freelance AI Development and Data Science research projects on Upwork and Fiverr, specifically focusing on Healthcare, Finance, and Agriculture solutions.**
-- 🌱 I’m currently learning **Advanced Generative AI architectures and expanding my knowledge in MLOps for scalable model deployment.**
-- 👯 I’m looking to collaborate on **Open-source Computer Vision projects or innovative Algorithmic Trading strategies.**
+- 🔭 I’m currently working on **Freelance AI Development and Data Science research projects on Upwork and Fiverr, specifically focusing on Healthcare, Finance, and Medical solutions.**
+- 🌱 I’m currently learning **Advanced Generative AI architectures and expanding my knowledge in GenAI, MLOps for scalable model deployment.**
+- 👯 I’m looking to collaborate on **Open-source Computer Vision, NLP, Deep Learning projects and innovative Algorithmic Trading strategies.**
 - 🤔 I’m looking for help with **Optimizing Deep Learning pipelines for real-time inference on edge devices.**
-- 💬 Ask me about **Natural Language Processing (NLP), Medical Image Analysis, Algorithmic Trading bots, and Data Analytics.**
+- 💬 Ask me about **Data Visualizaation, Medical Image Analysis, Algorithmic Trading bots, and Data Analytics.**
 - 📫 How to reach me: **https://www.upwork.com/freelancers/talhas138?mp_source=share**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I spend 80% of my time cleaning data so the model can spend 100% of its time looking smart!**
@@ -21,4 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=talha-sattar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--   -->
