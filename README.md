@@ -103,24 +103,17 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=talha-sattar&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="Talha's GitHub Stats" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=talha-sattar&theme=radical&hide_border=false&include_all_commits=true&count_private=false" 
+        alt="Talha Sattar's GitHub Stats"
+      />
     </td>
     <td width="50%" align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=talha-sattar&theme=radical&hide_border=false" alt="Talha's GitHub Streak" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha-sattar&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
+        alt="Talha Sattar's Most Used Languages"
+      />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha-sattar&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Talha's Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=talha-sattar&icon=0&color=0" alt="Profile Visit Count" />
-  </a>
-</p>
-
 <!--   -->
