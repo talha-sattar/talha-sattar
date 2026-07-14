@@ -104,16 +104,18 @@
   <tr>
     <td width="50%" align="center">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=talha-sattar&theme=radical&hide_border=false&include_all_commits=true&count_private=false" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=talha-sattar&theme=radical" 
         alt="Talha Sattar's GitHub Stats"
       />
     </td>
     <td width="50%" align="center">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha-sattar&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=talha-sattar&theme=radical" 
         alt="Talha Sattar's Most Used Languages"
       />
     </td>
   </tr>
 </table>
 <!--   -->
+
+
